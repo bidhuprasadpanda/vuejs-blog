@@ -1,2 +1,2 @@
 # vuejs-blog
-A Vuejs Blog With Wordpress API 
+A blog using Wordpress API 
